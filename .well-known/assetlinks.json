@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.aidio.instantdemo",
+    "sha256_cert_fingerprints":
+    ["AF:52:E0:2E:12:FE:00:54:40:62:0B:6E:19:2A:A0:00:A8:0E:59:18:24:92:10:56:A7:F6:F6:E8:0A:BA:3A:E5"]
+  }
+}]
